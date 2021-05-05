@@ -1,0 +1,16 @@
+#+TITLE: DT's
+
+* Table of Contents :toc:
+- [[#what-are-dotfiles][What Are Dotfiles?]]
+- [[#who-am-i][Who Am I?]]
+- [[#license][License]]
+
+* What Are Dotfiles?
+Dotfiles are the customization files that are used to personalize your Linux or other Unix-based system.  You can tell that a file is a dotfile because the name of the file will begin with a period--a dot!  The period at the beginning of a filename or directory name indicates that it is a hidden file or directory.  This repository contains my personal dotfiles.  They are stored here for convenience so that I may quickly access them on new machines or new installs.  Also, others may find some of my configurations helpful in customizing their own dotfiles.
+* Who Am I?
+I am Kavin, I am 18 years old. I know Python and Js quite well. I also focus heavily on command line programs and extensible text editors such as Vim and Emacs. In my Repo u can find my dotfiles for varios linux applications.This repository serves a triple function:
+1) As a place to show people my work and projects
+2) As a learning resource for those that wish to study my projects or my code
+3) As a backup for my code files
+* License
+The files and scripts in this repository are licensed under the MIT License, which is a very permissive license allowing you to use, modify, copy, distribute, sell, give away, etc. the software. In other words, do what you want with it. The only requirement with the MIT License is that the license and copyright notice must be provided with the software.
