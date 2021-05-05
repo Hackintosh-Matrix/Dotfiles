@@ -1,4 +1,4 @@
-#+TITLE: DT's
+#+TITLE: Kavin's Config
 
 * Table of Contents :toc:
 - [[#what-are-dotfiles][What Are Dotfiles?]]
